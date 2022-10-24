@@ -1,0 +1,20 @@
+{
+  "name": "-api-nodejs-express-mongo-",
+  "version": "1.0.0",
+  "description": "Repositório utilizado para aprender a desenvolver API por meio do NodeJS usando o MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AurileneBagagi/-API-NodeJS-Express-Mongo-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AurileneBagagi/-API-NodeJS-Express-Mongo-/issues"
+  },
+  "homepage": "https://github.com/AurileneBagagi/-API-NodeJS-Express-Mongo-#readme"
+}
