@@ -7,9 +7,7 @@ const app = express();
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: false}));
 
-app.get('/', (request, response) => {
-    response.send('OK');
-});
+require('./controllers/authController')(app);
 
 app.listen(3000, () => console.log('running...'));
 
